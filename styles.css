@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+ 
+.pd{
+    font-size: 15px;
+    font-family: "Lato", sans-serif;
+    color: #383838;
+}
+
+
+.h1d{
+    font-size: 25px; 
+    font-family: "DM Serif Text", serif;
+    color: #383838;
+}
+
+.grrt{
+    color: #D0D0D0;
+}
+
+.bg-rr{
+    background-color: #DA1922;
+}
+
+.bg-grrw{
+    background-color: #383838;
+}
+
+.grrano{
+    background-color: #F6F6F6;
+}
